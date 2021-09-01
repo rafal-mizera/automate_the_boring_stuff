@@ -1,0 +1,1 @@
+@py.exe C:\Users\RMZ\PycharmProjects\automate_boring_stuff\mcb.py %*
